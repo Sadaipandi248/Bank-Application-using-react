@@ -1,0 +1,82 @@
+/* navbar */
+.navbar {
+    /* box-shadow: 1px 1px 1px hsla(240, 20%, 8%, 0.973); */
+    animation: moveDown 0.5s ease-in-out; 
+    padding: 15px;
+    background-color: rgb(0, 143, 153);
+    font-weight: 1000;
+ 
+ }
+ .animate-navbar{
+   color: gainsboro;
+ }
+ .me-auto{
+  word-spacing: 20px;
+ }
+ .animate-navbar:hover{
+ background-color: aliceblue;
+ border-radius: 20px;
+ color: rgb(55, 0, 255);
+ }
+ .logo {
+   color: #e6b515;
+   font-weight: inherit;
+ }
+ .logo:hover{
+   background-color: aliceblue;
+ border-radius: 20px;
+ color: rgb(206, 11, 11);
+ }
+ /* homepage */
+ .home{
+  margin-top: 60px;
+ }
+ /* create page */
+ .create{
+   margin: 280px;
+   box-shadow: 2px 2px 10px 12px rgb(5, 238, 238);
+   margin-top: 30px;
+   
+ }
+ .mb-3{
+   width: 330px;
+   margin-left: 170px;
+ }
+ .mb-4{
+   color:rgb(0, 143, 153); 
+   text-align: center;
+ }
+ .button{
+   margin-right: 20px;
+ }
+ /* deposit page */
+ .dep{
+   box-shadow: 2px 2px 10px 12px rgb(5, 238, 238);
+  margin-top: 70px;
+  margin-left: 390px;
+ }
+ .balance-heading{
+   color: rgb(0, 143, 153);
+ }
+ .form-control{
+   width: 180px;
+ }
+ /* widthdraw page */
+ .widthdraw{
+   box-shadow: 2px 2px 10px 12px rgb(5, 238, 238);
+   margin-top: 70px;
+   margin-left: 390px;
+ }
+ .width{
+   color: rgb(0, 143, 153);
+ }
+ /* alldata */
+ .alldata{
+   box-shadow: 2px 2px 10px 12px rgb(5, 238, 238);
+  margin-top: 70px;
+  margin-left: 390px;
+ }
+ .all{
+   color: rgb(0, 143, 153);
+ }
+ 
